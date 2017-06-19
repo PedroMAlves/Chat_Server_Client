@@ -10,4 +10,4 @@ OP can kick, mute or apply funny modes to specified user.
 
 Package Client is meant to be distributed as a stand alone app used to access the server. If you need the .jar file just contact me.
 
-Have fun. I did coding it!
+Have fun using it. I sure had coding it!
