@@ -7,3 +7,7 @@ Also each client can write and receive messages at the same time. Ascii Art is s
 
 OP privileges are granted with a specific password set during server init (actually an argument to run the server).
 OP can kick, mute or apply funny modes to specified user.
+
+Package Client is meant to be distributed as a stand alone app used to access the server. If you need the .jar file just contact me.
+
+Have fun. I did coding it!
